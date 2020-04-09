@@ -1,0 +1,3 @@
+[submodule "seabios"]
+	path = seabios
+	url = git@github.com:coreboot/seabios.git

@@ -63,3 +63,7 @@ for partition in partition_entries: #found at the end of our partition
 # No valid partitions found
 print "NO ROM BASIC" # as in int 0x18
 exit()
+
+
+
++---- Stage 4 ----+
